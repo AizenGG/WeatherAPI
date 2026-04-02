@@ -126,8 +126,7 @@ tests/
 Внешний источник данных - [Open-Meteo](https://open-meteo.com/), без API ключа.
 
 Скрины со Swagger:
-<img width="1917" height="1000" alt="swag1" src="https://github.com/user-attachments/assets/ab5f5a29-f5f1-472d-910e-8d32fbc6d05c" />
-<img width="1909" height="978" alt="swag2" src="https://github.com/user-attachments/assets/eb7056c3-b13b-411d-ab2b-420e75ff0cd8" />
-<img width="1919" height="988" alt="swag3" src="https://github.com/user-attachments/assets/adf0ab31-cce1-44d1-93d0-88a133334f3d" />
-<img width="1919" height="1001" alt="swag4" src="https://github.com/user-attachments/assets/fa03e63a-af8e-4384-a4d5-4cd35beba853" />
-
+<img width="1917" height="1000" alt="swag1" src="https://github.com/user-attachments/assets/0017a849-d581-49c2-bb94-6b2c3a1d45e9" />
+<img width="1909" height="978" alt="swag2" src="https://github.com/user-attachments/assets/aeed4392-5bbd-47db-8b24-e77cfe418ce8" />
+<img width="1919" height="988" alt="swag3" src="https://github.com/user-attachments/assets/bd69721e-8c3b-4aa0-aded-9c7d17e927a2" />
+<img width="1919" height="1001" alt="swag4" src="https://github.com/user-attachments/assets/6ca8876e-9262-42a7-977d-c96c688b5b4d" />
