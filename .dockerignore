@@ -1,0 +1,6 @@
+﻿cat .dockerignore
+**/bin
+**/obj
+**/.idea
+.git
+.gitignore
